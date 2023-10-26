@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Clockiieee
 - 👀 I’m interested in music, dance and art
-- 🌱 I’m currently learning c++, python and html
+- 🌱 I’m currently learning c++, HTML, CSS, JavaScript, wxWidgets, etc
+- ✨ I want to become a Full Stack Web Developer
 
 
 <!---
